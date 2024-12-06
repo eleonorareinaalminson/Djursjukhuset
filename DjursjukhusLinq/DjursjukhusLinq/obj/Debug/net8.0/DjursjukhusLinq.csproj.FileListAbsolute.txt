@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\DjursjukhusLinq\DjursjukhusLinq\bin\Debug\net8.0\DjursjukhusLinq.exe
+C:\Users\HP\source\repos\DjursjukhusLinq\DjursjukhusLinq\bin\Debug\net8.0\DjursjukhusLinq.deps.json
+C:\Users\HP\source\repos\DjursjukhusLinq\DjursjukhusLinq\bin\Debug\net8.0\DjursjukhusLinq.runtimeconfig.json
+C:\Users\HP\source\repos\DjursjukhusLinq\DjursjukhusLinq\bin\Debug\net8.0\DjursjukhusLinq.dll
+C:\Users\HP\source\repos\DjursjukhusLinq\DjursjukhusLinq\bin\Debug\net8.0\DjursjukhusLinq.pdb
+C:\Users\HP\source\repos\DjursjukhusLinq\DjursjukhusLinq\obj\Debug\net8.0\DjursjukhusLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DjursjukhusLinq\DjursjukhusLinq\obj\Debug\net8.0\DjursjukhusLinq.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DjursjukhusLinq\DjursjukhusLinq\obj\Debug\net8.0\DjursjukhusLinq.AssemblyInfo.cs
+C:\Users\HP\source\repos\DjursjukhusLinq\DjursjukhusLinq\obj\Debug\net8.0\DjursjukhusLinq.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DjursjukhusLinq\DjursjukhusLinq\obj\Debug\net8.0\DjursjukhusLinq.dll
+C:\Users\HP\source\repos\DjursjukhusLinq\DjursjukhusLinq\obj\Debug\net8.0\refint\DjursjukhusLinq.dll
+C:\Users\HP\source\repos\DjursjukhusLinq\DjursjukhusLinq\obj\Debug\net8.0\DjursjukhusLinq.pdb
+C:\Users\HP\source\repos\DjursjukhusLinq\DjursjukhusLinq\obj\Debug\net8.0\DjursjukhusLinq.genruntimeconfig.cache
+C:\Users\HP\source\repos\DjursjukhusLinq\DjursjukhusLinq\obj\Debug\net8.0\ref\DjursjukhusLinq.dll
